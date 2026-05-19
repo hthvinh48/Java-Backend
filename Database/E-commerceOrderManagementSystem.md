@@ -28,8 +28,8 @@ Bài tập: Hệ thống quản lý đơn hàng Thương mại điện tử
   - FK: categoryID trong Product
 
 ## 3.ERD:
-![ERD](.\imgs\E-commerceOrderManagementSystem.png)
-[Open ERD](.\imgs\E-commerceOrderManagementSystem.png)
+![ERD](./imgs/E-commerceOrderManagementSystem.png)
+[Open ERD](./imgs\E-commerceOrderManagementSystem.png)
 
 
 
