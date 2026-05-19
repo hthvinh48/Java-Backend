@@ -29,7 +29,7 @@ Bài tập: Hệ thống quản lý đơn hàng Thương mại điện tử
 
 ## 3.ERD:
 ![ERD](./imgs/E-commerceOrderManagementSystem.png)
-[Open ERD](./imgs\E-commerceOrderManagementSystem.png)
+[Open ERD](./imgs/E-commerceOrderManagementSystem.png)
 
 
 
