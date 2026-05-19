@@ -1,6 +1,7 @@
 [Bài tập] Hệ thống Quản lý Đăng ký Môn học Đại học
 
 ## 1.Thực thể và khóa chính:
+
 - Sinh viên (Student): mã sinh viên **(PK)**, họ tên, ngày sinh, giới tính, email, khoa
 - Môn học (Course): mã môn **(PK)**, tên môn, số tín chỉ, khoa phụ trách
 - Giảng viên (Instructor): mã giảng viên **(PK)**, họ tên, học vị, email, khoa
@@ -9,6 +10,7 @@
 - Khoa (Department): mã khoa **(PK)**, tên khoa
 
 ## 2.Mối quan hệ:
+
 - Sinh viên đăng ký (Enrollment) Lớp học phần:
     + Student 1 - N Enrollment N - 1 Class_Section
     + FK: studentID, classSectionID trong Enrollment 

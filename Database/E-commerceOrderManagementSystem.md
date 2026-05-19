@@ -12,20 +12,20 @@ Bài tập: Hệ thống quản lý đơn hàng Thương mại điện tử
 ## 2. Mối quan hệ
 
 - Khách hàng đặt đơn hàng:
-  - Customer 1 - N Orders
-  - FK: customerID trong Orders
+  + Customer 1 - N Orders
+  + FK: customerID trong Orders
 
 - Một đơn hàng chứa nhiều sản phẩm:
-  - Orders 1 - N OrderDetail N - 1 Product
-  - FK: orderID, productID trong OrderDetail
+  + Orders 1 - N OrderDetail N - 1 Product
+  + FK: orderID, productID trong OrderDetail
 
 - Nhân viên xử lý đơn hàng:
-  - Staff 1 - N Orders
-  - FK: staffID trong Orders
+  + Staff 1 - N Orders
+  + FK: staffID trong Orders
 
 - Một loại hàng có nhiều sản phẩm:
-  - Category 1 - N Product
-  - FK: categoryID trong Product
+  + Category 1 - N Product
+  + FK: categoryID trong Product
 
 ## 3.ERD:
 ![ERD](./imgs/E-commerceOrderManagementSystem.png)
