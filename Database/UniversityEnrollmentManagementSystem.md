@@ -28,8 +28,8 @@
     + FK: departmentID trong Student, Instructor, Course 
 
 ## 3.ERD:
-![ERD](Database\imgs\UniversityEnrollmentManagementSystem.png)
-[Open ERD](Database\imgs\UniversityEnrollmentManagementSystem.png)
+![ERD](.\imgs\UniversityEnrollmentManagementSystem.png)
+[Open ERD](.\imgs\UniversityEnrollmentManagementSystem.png)
 
 
 
